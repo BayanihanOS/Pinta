@@ -1,4 +1,5 @@
-Pinta
-=====
+## Pinta
 
-Wallpapers, Icons, Cursors and Fonts for BayanihanOS
+A collection of Wallpapers, Icons, Cursors and Fonts for BayanihanOS
+
+Release: Agila
